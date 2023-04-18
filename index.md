@@ -3,7 +3,7 @@ I am working on lightsaber
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| b Wiliams|i don't know | 10th grade
+| b Wiliams|uprep| i don't know | 10th grade|
 
 ![Relevant Name]
   
